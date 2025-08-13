@@ -11,7 +11,8 @@ import SwiftUI
 struct MovieLibraryApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            NewSignInView()
         }
     }
 }
